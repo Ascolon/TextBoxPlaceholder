@@ -1,0 +1,17 @@
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\bin\Debug\Placeholder.exe
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\bin\Debug\Placeholder.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\TextBoxPlaceholder.g.cs
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder_MarkupCompile.lref
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\TextBoxPlaceholder.baml
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.g.resources
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.exe
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\Placeholder\Placeholder\obj\Debug\Placeholder.csprojResolveAssemblyReference.cache
